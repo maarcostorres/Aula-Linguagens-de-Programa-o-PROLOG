@@ -1,0 +1,1 @@
+# Aula-Linguagens-de-Programa-o-PROLOG
